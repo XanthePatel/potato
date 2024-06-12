@@ -1,16 +1,16 @@
-lang: en
+lang: zh-CN
 
 home:
-  welcome: Hello.
+  welcome: 希望不会人看到吧，悄悄地记录自己的生活足迹。
 
 menu_links: []
 extra_head: []
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
-  site: Dane Blog
-  description: Stand out, stay curious!
+  site: 一步一个脚印
+  description: 大胆的迈出人生无数个第一步！
   title: "=title"
   image: "=image"
   twitter: "@username"
-  lang: en
+  lang: zh-CN
